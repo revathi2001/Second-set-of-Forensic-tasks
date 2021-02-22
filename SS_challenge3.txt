@@ -1,0 +1,2 @@
+Opening the file in stegsolve and if we go on changing the planes at red plane1 1 we can find flag.
+pctf{st3gsolve_1s_u53ful}

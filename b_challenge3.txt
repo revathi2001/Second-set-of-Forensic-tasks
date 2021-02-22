@@ -1,0 +1,3 @@
+When I used "binwalk -e b_challenge3.jpg" i found there are some hidden images so I used "dd if=b_challenge3.jpg of=image1.jpg bs=1 skip=202" Then we can find image Freedom.jpg in which we can find flag.
+
+inctf{fr33dom_w4s_n0t_w0n_0v3rnit3}

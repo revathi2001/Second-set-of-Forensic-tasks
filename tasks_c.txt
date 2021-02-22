@@ -1,0 +1,1 @@
+Downloading the given tasks and using  "unzip Tasks-c.zip" it is asking for password so i used "fcrackzip -v -u -D -p rockyou.txt Tasks-c.zip" i got password as "aaa" and then i could see all challenges

@@ -1,0 +1,6 @@
+When exiftool E_challenge3.jpeg is used we can find "696e6374667b337831663730304c5f69735f673030645f215f67756573735f2121217d" in comment usig online converter from hex to string we get flag.
+
+inctf{3x1f700L_is_g00d_!_guess_!!!}
+
+Online converter from hex to string:
+https://www.rapidtables.com/convert/number/hex-to-ascii.html

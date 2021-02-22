@@ -1,0 +1,3 @@
+Using "strings find-flags-in-me | grep -i inctf" we get 2 flags.
+inctf{y4yy!!!_found_th3_fir5t_fl4g}
+InCtF{G00d_jobb!!This_is_the_2nd_on3}

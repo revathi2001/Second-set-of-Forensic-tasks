@@ -1,0 +1,3 @@
+When strings revers.me is used we can get flag in reverse order as "}ss3ug_1_gn1sr3ver_t4_d00g_3ra_u0Y{ftcn".
+inctf{Y0u_ar3_g00d_4t_rev3rs1ng_1_gu3ss}
+

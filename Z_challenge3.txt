@@ -1,0 +1,3 @@
+Since image contains QR code using "zbarimg Z_challenge3.png"  we get flag.
+flag{N0w_y0u_a_little_about_zbarimg}
+

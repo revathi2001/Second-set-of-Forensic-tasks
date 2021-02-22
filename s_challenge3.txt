@@ -1,0 +1,6 @@
+Using "strings s_challenge3.jpg" in the last line we get "aW5jdGZ7c3RyaW5nc19hcmVfdXNlZnVsfQ==" since it is ending with "==" it is base64 converting it to ascii we get flag.
+
+inctf{strings_are_useful}
+
+Online decoder:
+https://www.base64decode.org/

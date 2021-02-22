@@ -1,0 +1,7 @@
+Using strings filename we get "526d7868636d564a626c526f5a5568766247554b" converting it to ascii we get "RmxhcmVJblRoZUhvbGUK".Using base64 decode we get "FlareInTheHole".Using "steghide extract -sf FS_challenge3.png" command and phrase "FlareInTheHole" flag is stored in flag.text file.
+inctf{1_l0ve_c0unt3r_str1ke_1.6}
+
+Online tools for converting hex to ascii:
+https://www.rapidtables.com/convert/number/hex-to-ascii.html
+decoding from base64:
+https://www.base64decode.org/
